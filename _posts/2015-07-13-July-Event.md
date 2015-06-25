@@ -9,4 +9,4 @@ We will be joining up with Code for Atlanta for civic hack night.  We'll look to
 
 Hacking project TBD.
 
-http://www.meetup.com/codeforatlanta/ 
+[http://www.meetup.com/codeforatlanta/](http://www.meetup.com/codeforatlanta/)
