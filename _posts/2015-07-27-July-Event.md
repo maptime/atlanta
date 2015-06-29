@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: MaptimeATL Instructional Night: Anatomy of a Web Map
+title: "MaptimeATL Instructional Night: Anatomy of a Web Map"
 rsvp: http://www.meetup.com/MaptimeATL/events/223439779/
 ---
 
