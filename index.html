@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- This loops through the paginated posts -->
-{% for item in paginator.posts %}
+{% for item in paginator.posts reversed %}
 <div class='space-bottom4'>
 
   {% if item.category == 'event' %}
